@@ -1,0 +1,5 @@
+aiohttp==3.8.1
+dnspython==2.2.1
+dnstwist==20220131
+python-dotenv==0.20.0
+typer==0.4.1
